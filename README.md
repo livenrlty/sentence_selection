@@ -3,5 +3,5 @@
 
 ## Rankers
 | TF-IDF        | InferSent     | MatchZoo | USE | Mean Word2Vec | Perplexity |
-|---------------|---------------|----------|-----|---------------|------------|
+|:-------------:|:-------------:|:--------:|:---:|:-------------:|:----------:|
 | None | Ready | Almost ready | None | None | Need check |
