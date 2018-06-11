@@ -1,4 +1,3 @@
 # Sentence selection
+##### The selection of relevant sentences for QA systems
 ---
-#### The selection of relevant sentences for QA systems
-======
