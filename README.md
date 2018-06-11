@@ -1,5 +1,5 @@
 # Sentence selection
-### The selection of relevant sentences for QA systems
+#### The selection of relevant sentences for QA systems
 
 ## Rankers
 | TF-IDF        | InferSent     | MatchZoo | USE | Mean Word2Vec | Perplexity |
