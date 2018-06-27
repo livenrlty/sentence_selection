@@ -15,7 +15,7 @@
 | InferSent SQuAD | 0.567 | 0.888 | 0.971 |
 | InferSent Fujitsu | 0.278 | 0.703 | 0.910 |
 | InferSent Query_Context | 0.682 | 0.920 | 0.982 |
-| MatchZoo      | None | None | None |
+| MatchZoo      | 0.42 | 0.51 | 0.056 |
 | USE           | None | None | None |
 | Mean Word2Vec | None | None | None |
 | Perplexity (Avg) | 0.264 | 0.678 | 0.894 |
@@ -26,4 +26,7 @@
 | R-NET | 70.918 | 79.644 |
 | TF-IDF | 63.917 | 72.472 |
 | Ifs@3 (Query_Context) | 62.081 | 70.707 |
-| TF-IDF + MSMarco| 64.626 | 73.057 |
+| TF-IDF + MSMarco | 64.626 | 73.057 |
+| mZoo@1 | 54.408 | 62.189 |
+| mZoo@3 | 62.668 | 71.180 |
+| mZoo@5 | 64.428 | 73.045 |
